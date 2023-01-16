@@ -37,7 +37,7 @@ const llamandoApi = async()=>{
     }
 }
 
-const dibujandoCards = data=>{}
+const dibujandoCards = data=>{
     console.log(data)
     data.forEach( producto => {console.log("producto")
         templateCard.querySelector("h5").textContent = producto.nombre;

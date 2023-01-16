@@ -2,6 +2,8 @@
 
 ## LINK GITHUB PARA APORTAR CON MEJORAS: https://github.com/pcontral/ ##
 
+### https://pcontral.github.io/salamantra_mod3/
+
 ### 4 productos en card ### 
 
 ### GENERA UNA LISTA SIN REPETIR PRODUCTOS SIMILARES ### 
