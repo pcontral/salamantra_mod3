@@ -1,0 +1,27 @@
+ [
+    {
+        "id": 1,
+        "nombre": "Tinaja 3 personas",
+        "precio": 750000,
+        "imagen": "https://picsum.photos/id/689/200/200"
+    },
+    {
+        "id": 2,
+        "nombre": "Tinaja 4 personas",
+        "precio": 1050000,
+        "imagen": "https://picsum.photos/id/684/200/200"
+    },
+    {
+        "id": 3,
+        "nombre": "Tinaja 6 personas",
+        "precio": 1250000,
+        "imagen": "https://picsum.photos/id/685/200/200"
+    },
+    {
+        "id": 4,
+        "nombre": "Sauna 2 personas",
+        "precio": 700000,
+        "imagen": "https://picsum.photos/id/687/200/200"
+    }
+
+]
